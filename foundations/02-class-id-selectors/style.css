@@ -1,0 +1,18 @@
+.para {
+    background-color: rgb(255,192,203);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#dog {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(205, 255, 165);
+    font-weight: bold;
+}
